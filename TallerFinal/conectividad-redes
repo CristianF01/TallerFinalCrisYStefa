@@ -1,0 +1,9 @@
+# Conectividad y redes
+
+- Usamos Retrofit para consumir la API pública de OpenWeather
+- Obtenemos datos como:
+  - Ciudad
+  - Temperatura
+  - Código del ícono del clima
+- Usamos **Coil** para mostrar imágenes del clima desde URL
+- Manejo de errores con try/catch y estado con `remember`
