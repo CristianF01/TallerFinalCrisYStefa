@@ -1,0 +1,6 @@
+# Persistencia de datos con Room
+
+- Creamos la entidad `EntradaDiarioEntity` con anotaciones `@Entity`
+- Definimos `EntradaDao` para insertar y consultar datos
+- Configuramos la base de datos `EntradaDatabase`
+- Usamos un `ViewModel` con `Flow` para observar entradas en tiempo real
